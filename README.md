@@ -1,6 +1,6 @@
 ### Greetings traveller 🧙
 
-I'm a software engineer for @uber based in New York. 
+I'm a software engineer for Uber based in New York. 
 
 ![koala](https://github.com/cdlewis/cdlewis/raw/master/giphy.gif)
 
