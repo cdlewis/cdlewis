@@ -1,6 +1,6 @@
 ### Greetings traveller 👋
 
-![koala](./giphy.gif)
+![koala](https://github.com/cdlewis/cdlewis/raw/master/giphy.gif)
 
 <!--
 **cdlewis/cdlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
