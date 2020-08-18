@@ -1,4 +1,6 @@
-### Greetings traveller 👋
+### Greetings traveller 🧙
+
+I'm a software engineer for @uber based in New York. 
 
 ![koala](https://github.com/cdlewis/cdlewis/raw/master/giphy.gif)
 
