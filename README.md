@@ -4,7 +4,7 @@ I'm a software engineer.
 
 🔭 Most of my day is switching between different branches (don't tell my manager) so I'm trying to make that easier with [git-switch](https://github.com/cdlewis/git-switch).
 
-🌱 I’m currently learning Rust.
+🌱 I’m currently learning Scheme ([follow along](https://github.com/cdlewis/crisp)).
 
 ⚡ Fun fact: I was sorted into Hufflepuff.
 
