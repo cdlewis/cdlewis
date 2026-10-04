@@ -4,7 +4,7 @@ My name is Chris. I currently live in San Francisco, having long ago fled the ha
 
 Some recent projects that I'm particularlty proud of include:
 
-* [Snowboard Kids Decompilation](https://github.com/cdlewis/snowboardkids-decomp).
-* [Snowboard Kids: Recompiled](https://github.com/cdlewis/snowboardkids-recomp);
-* [Snowboard Kids 2 Decompilation](https://github.com/cdlewis/snowboardkids2-decomp); and
-* [Snowboard Kids 2: Recompiled](https://github.com/cdlewis/snowboardkids2-recomp).
+* [Snowboard Kids Decompilation](https://github.com/cdlewis/snowboardkids-decomp)
+* [Snowboard Kids: Recompiled](https://github.com/cdlewis/snowboardkids-recomp)
+* [Snowboard Kids 2 Decompilation](https://github.com/cdlewis/snowboardkids2-decomp)
+* [Snowboard Kids 2: Recompiled](https://github.com/cdlewis/snowboardkids2-recomp)
